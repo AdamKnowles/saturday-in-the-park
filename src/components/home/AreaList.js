@@ -18,4 +18,4 @@ const AreaList = props => {
     )
 }
 
-export default AreaList
+export default AreaList 
